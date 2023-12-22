@@ -8,7 +8,7 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/shanvii?style=social">
 </p> 
 
-- 🌱 I’m currently learning **Advance Java , DSA , SQL**
+- 📖 I’m currently learning **Advance Java , DSA , SQL**
 - 📫 How to reach me **satakshi.shanvi@gmail.com**
 
 ### 🛠 &nbsp;Languages and Tools
@@ -50,15 +50,14 @@
 ### ⚡ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/shanvii">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shanvii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  &nbsp;   &nbsp;
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shanvii&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shanvii&theme=algolia" alt="shanvii" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shanvii&layout=compact&langs_count=8&theme=algolia" alt="shanvii" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shanvii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="shanvii" />
 </a>
 </p>
 
-<p align="center">
-    <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=shanvii&theme=algolia&border=61dafb&hide_border=true" alt="shanvii" />
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p>
