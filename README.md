@@ -51,11 +51,11 @@
 ### ⚡ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/shanvii">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=shanvii&theme=algolia" alt="shanvii" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shanvii&theme=algolia" alt="shanvii" />
   &nbsp;
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shanvii&layout=compact&langs_count=8&theme=algolia" alt="shanvii" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shanvii&layout=compact&langs_count=8&theme=algolia" alt="shanvii" />
   &nbsp;
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shanvii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="shanvii" />
+<!--   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shanvii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="shanvii" /> -->
 </a>
 </p>
 
