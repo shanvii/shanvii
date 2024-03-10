@@ -8,7 +8,7 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/shanvii?style=social">
 </p> 
 
-- 📖 I’m currently learning **Advance Java, DSA, SQL**
+- 📖 I’m currently learning **Advance Java, DSA**
 - 📫 How to reach me **satakshi.shanvi@gmail.com**
 
 ### 🛠 &nbsp;Languages and Tools
