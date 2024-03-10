@@ -45,6 +45,10 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> 
   </a>   &nbsp;
 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> 
+</a> &nbsp;
+
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> 
   </a> 
@@ -61,8 +65,12 @@
   <a href="https://github.com/shanvii/Android-Studio-Kotlin" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg" alt="kotlin" width="30" height="30"/> 
   </a>   &nbsp;
-</p>
 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
+</a> &nbsp;
+
+</p>
 
 ### ⚡ &nbsp;GitHub Analytics
 <p align="center">
